@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW3.8</string>
+    <string name="title_heroes_fragment">Heroes of South Park</string>
+    <string name="title_hero_fragment">Hero of South Park</string>
+    <string name="status_alive">Alive</string>
+    <string name="status_dead">Dead</string>
+</resources>
